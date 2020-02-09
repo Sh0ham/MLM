@@ -1,18 +1,3 @@
-/**********************************************************************
-*,ggggggggggggggg                                                     *
-*dP""""""88"""""""                                    ,dPYb,          *
-*Yb,_    88                                           IP'`Yb          *
-*`""    88              gg                           I8  8I           *
-*			 88              ""                           I8  8'            *
-*			 88   ,gggggg,   gg   gg,gggg,    gg,gggg,    I8 dP   ,ggg,     *
-*			 88   dP""""8I   88   I8P"  "Yb   I8P"  "Yb   I8dP   i8" "8i    *
-* gg,   88  ,8'    8I   88   I8'    ,8i  I8'    ,8i  I8P    I8, ,8I   *
-*	"Yb,,8P ,dP     Y8,_,88,_,I8 _  ,d8' ,I8 _  ,d8' ,d8b,_  `YbadP'    *
-*		"Y8P' 8P      `Y88P""Y8PI8 YY88888PPI8 YY88888P8P'"Y88888P"Y888   *
-*														I8          I8                            *
-*														I8          I8                            *
-*														I8          I8                            *
-**********************************************************************/
 #include <stdio.h>
 
 char is_tripple(char *str); //Function declaration
