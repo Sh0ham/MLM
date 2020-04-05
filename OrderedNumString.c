@@ -15,8 +15,8 @@ int main()
 Input: Pointer to first address of the string
 Output: Ordered numbers string
 Algorithm: Using pointer to first slot of each number given on the string, starting right after a spcae bar charcter;
-					 Converting the number from charcters to unsigned long long int and storing it in new integer array;
-					 Sorting using bubble sort the integers array and than converting each slot of the array back to the main string*/
+	   Converting the number from charcters to unsigned long long int and storing it in new integer array;
+	   Sorting using bubble sort the integers array and than converting each slot of the array back to the main string*/
 char* sortNumbersInString(char *str)
 {
 	char *strHodor = (char *)malloc((strlen(str)+1) * sizeof(char)); //Function variable
